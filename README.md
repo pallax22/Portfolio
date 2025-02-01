@@ -47,7 +47,9 @@ Soy un entusiasta de la ciencia de datos en etapa de aprendizaje, explorando có
 Si tienes sugerencias, quieres colaborar o simplemente charlar sobre ciencia de datos, ¡contáctame!  
 
 📧 Email: fkunlimitedco@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/m/profile/in/manuelpallar%C3%A9sp%C3%A9rez/
+
 📂 GitHub: pallax_22 
 
 ---
