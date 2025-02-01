@@ -11,19 +11,19 @@ Soy un entusiasta de la ciencia de datos en etapa de aprendizaje, explorando có
 
 ## 📂 Proyectos  
 
-### 1️⃣ **Análisis Exploratorio de Datos (EDA) en [Dataset Nombre]**  
-📌 *Descripción:* Exploración de un conjunto de datos real, limpieza de datos y generación de visualizaciones para entender patrones y tendencias.  
-🔧 *Herramientas:* Pandas, Matplotlib, Seaborn.  
+### 1️⃣ ****  
+📌 *Descripción:*.  
+🔧 *Herramientas:*.  
 📁 [Ver proyecto](enlace_al_notebook)  
 
 ### 2️⃣ **Predicción de [Variable] con Machine Learning**  
-📌 *Descripción:* Creación de un modelo de aprendizaje automático para predecir [variable objetivo] utilizando diferentes algoritmos de ML.  
-🔧 *Herramientas:* Scikit-learn, Pandas, NumPy.  
+📌 *Descripción:*  
+🔧 *Herramientas:* .  
 📁 [Ver proyecto](enlace_al_notebook)  
 
-### 3️⃣ **[Otro proyecto que tengas]**  
-📌 *Descripción:* Breve resumen del problema que resuelve este proyecto y su enfoque.  
-🔧 *Herramientas:* [Tecnologías utilizadas].  
+### 3️⃣ ****  
+📌 *Descripción:*  
+🔧 *Herramientas:*.  
 📁 [Ver proyecto](enlace_al_notebook)  
 
 ---
@@ -31,15 +31,8 @@ Soy un entusiasta de la ciencia de datos en etapa de aprendizaje, explorando có
 ## 🛠️ Habilidades en desarrollo  
 ✔️ Manipulación y limpieza de datos con **Pandas y NumPy**  
 ✔️ Visualización de datos con **Matplotlib y Seaborn**  
-✔️ Modelado básico de Machine Learning con **Scikit-learn**  
+✔️ Modelado de Machine Learning con **Scikit-learn**  
 ✔️ Trabajo con Jupyter Notebooks  
-
----
-
-## 📌 Próximos pasos  
-📌 Seguir aprendiendo sobre modelos de machine learning avanzados.  
-📌 Explorar frameworks como **TensorFlow y PyTorch**.  
-📌 Aplicar técnicas de procesamiento de datos en proyectos más grandes.  
 
 ---
 
