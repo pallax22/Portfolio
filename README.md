@@ -16,15 +16,6 @@ Soy un entusiasta de la ciencia de datos en etapa de aprendizaje, explorando có
 🔧 *Herramientas:*.  
 📁 [Ver proyecto](enlace_al_notebook)  
 
-### 2️⃣ **Predicción de [Variable] con Machine Learning**  
-📌 *Descripción:*  
-🔧 *Herramientas:* .  
-📁 [Ver proyecto](enlace_al_notebook)  
-
-### 3️⃣ ****  
-📌 *Descripción:*  
-🔧 *Herramientas:*.  
-📁 [Ver proyecto](enlace_al_notebook)  
 
 ---
 
