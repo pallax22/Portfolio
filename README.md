@@ -14,7 +14,7 @@ Soy un entusiasta de la ciencia de datos en etapa de aprendizaje, explorando có
 ### 1️⃣ ****  
 📌 *Descripción:*.  
 🔧 *Herramientas:*.  
-📁 [Ver proyecto](enlace_al_notebook)  
+📁 [Ver proyecto](https://github.com/pallax22/Portfolio/tree/main/Proyecto%20Riesgos)  
 
 
 ---
