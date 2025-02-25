@@ -11,9 +11,8 @@ Soy un entusiasta de la ciencia de datos en etapa de aprendizaje, explorando có
 
 ## 📂 Proyectos  
 
-### 1️⃣ ****  
-📌 *Descripción:*.  
-🔧 *Herramientas:*.  
+### 1️⃣ **Análisis de Riesgo en Préstamos Bancarios**  
+📌 *Descripción:*Este proyecto analiza el riesgo en el sector bancario, calculando la pérdida esperada. Utilizamos datos de préstamos para evaluar su nivel de riesgo y apoyar la toma de decisiones financieras.   
 📁 [Ver proyecto](https://github.com/pallax22/Portfolio/tree/main/Proyecto%20Riesgos)  
 
 
