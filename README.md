@@ -1,4 +1,4 @@
-# 📊 Mi Portafolio de Data Science  
+# 📊 Mi Portafolio de Data Science - Manuel Pallarés 
 
 ¡Bienvenido/a a mi portafolio de **Data Science**! 🚀  
 
@@ -18,7 +18,7 @@ Soy un entusiasta de la ciencia de datos en etapa de aprendizaje, explorando có
 
 ---
 
-## 🛠️ Habilidades en desarrollo  
+## 🛠️ ¿Qué sé hacer?  
 ✔️ Manipulación y limpieza de datos con **Pandas y NumPy**  
 ✔️ Visualización de datos con **Matplotlib y Seaborn**  
 ✔️ Modelado de Machine Learning con **Scikit-learn**  
@@ -26,7 +26,7 @@ Soy un entusiasta de la ciencia de datos en etapa de aprendizaje, explorando có
 
 ---
 
-## 📬 Contacto  
+## 📬 Conectemos  
 Si tienes sugerencias, quieres colaborar o simplemente charlar sobre ciencia de datos, ¡contáctame!  
 
 📧 Email: fkunlimitedco@gmail.com
