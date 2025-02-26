@@ -33,7 +33,7 @@ Si tienes sugerencias, quieres colaborar o simplemente charlar sobre ciencia de 
 
 🔗 LinkedIn: [Manuel Pallarés](https://www.linkedin.com/in/manuelpallar%C3%A9sp%C3%A9rez/)
 
-📂 [Git Hub](https://github.com/pallax22)
+📂  [GitHub](https://github.com/pallax22)
 ---
 
 ### ⭐ ¡Gracias por visitar mi portafolio!  
