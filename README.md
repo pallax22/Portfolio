@@ -1,4 +1,4 @@
-![Banner](https://github.com/pallax22/Portfolio/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![Banner](https://github.com/pallax22/Portfolio/blob/main/.github/image.png)
 # 📊 Portafolio de Data Science  Manuel Pallarés 
 
 ¡Bienvenido/a a mi portafolio de **Data Science**! 🚀  
