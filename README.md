@@ -31,10 +31,9 @@ Si tienes sugerencias, quieres colaborar o simplemente charlar sobre ciencia de 
 
 📧 Email: fkunlimitedco@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/m/profile/in/manuelpallar%C3%A9sp%C3%A9rez/
+🔗 LinkedIn: [Manuel Pallarés](https://www.linkedin.com/in/manuelpallar%C3%A9sp%C3%A9rez/)
 
-📂 GitHub: pallax_22 
-
+📂 [Git Hub](https://github.com/pallax22)
 ---
 
 ### ⭐ ¡Gracias por visitar mi portafolio!  
