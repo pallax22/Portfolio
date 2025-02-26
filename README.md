@@ -1,4 +1,4 @@
-![Banner](https://github.com/pallax22/Portfolio/blob/main/.github/image.png)
+![Banner](https://raw.githubusercontent.com/pallax22/Portfolio/main/.github/image.png)
 # 📊 Portafolio de Data Science  Manuel Pallarés 
 
 ¡Bienvenido/a a mi portafolio de **Data Science**! 🚀  
