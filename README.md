@@ -1,4 +1,4 @@
-# 📊 Mi Portafolio de Data Science - Manuel Pallarés 
+# 📊 Portafolio de Data Science  Manuel Pallarés 
 
 ¡Bienvenido/a a mi portafolio de **Data Science**! 🚀  
 
